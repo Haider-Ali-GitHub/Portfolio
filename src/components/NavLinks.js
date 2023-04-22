@@ -6,6 +6,11 @@ import closeMenu from "../images/close.svg";
 
 const NavLinks = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const openResume = () => {
+    window.open("https://drive.google.com/file/d/1cbZHvJo4sK_st0ivQw9UZh-BAcu8jPO7/view?usp=sharing", "_blank");
+  }
+
   return (
     <>
       <button className="dropdown-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>
@@ -22,12 +27,9 @@ const NavLinks = () => {
         <NavLink to="/about" onClick={() => setIsMenuOpen(false)}>
           About
         </NavLink>
-        {/* <NavLink to="/portfolio" onClick={() => setIsMenuOpen(false)}>
-          Portfolio
-        </NavLink> */}
-        <NavLink to="/contact" onClick={() => setIsMenuOpen(false)}>
-          Contact
-        </NavLink>
+        <a href="#" onClick={openResume}>
+          Resume
+        </a>
       </nav>
     </>
   );
