@@ -37,7 +37,7 @@ This portfolio application was built using React and is designed to showcase my 
   
   <!-- TABLE OF CONTENTS -->
 
-  <details>
+  <!-- <details>
     <summary>Table of Contents</summary>
     <ol>
       <li>
@@ -65,10 +65,10 @@ This portfolio application was built using React and is designed to showcase my 
       <li><a href="#questions">Questions</a></li>
     </ol>
   </details>
-  
+   -->
   <!-- ABOUT THE PROJECT -->
   
-  ## About The Project
+  <!-- ## About The Project -->
   
   ### Photos
   
