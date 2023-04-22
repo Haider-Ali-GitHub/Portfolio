@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import landingImage from "../../images/me.svg";
-import Draw from "../../components/Draw";
+// import Draw from "../../components/Draw";
 import SocialIcons from "../../components/SocialIcons";
 
 const Landing = ({ name }) => {
@@ -41,7 +41,7 @@ const Landing = ({ name }) => {
 
   return (
     <section className="landing" style={styles.landing}>
-      <Draw />
+      {/* <Draw /> */}
       <div className="textContainer" style={styles.textContainer}>
         <h1 className="name" style={styles.name}>
           {name}
@@ -67,11 +67,11 @@ const Landing = ({ name }) => {
         <motion.img
           className="landingImage"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.4 }}
+          animate={{ opacity: 0.8 }}
           transition={{ duration: 1, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
-          alt="Michael Yeates"
+          alt="Haider Ali"
         />
       </div>
       <SocialIcons />
