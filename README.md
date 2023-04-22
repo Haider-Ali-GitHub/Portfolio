@@ -80,9 +80,9 @@ This portfolio application was built using React and is designed to showcase my 
 
 <!-- [![My React Portfolio Screen Shot][product-screenshot4]](https://devhaiderali.netlify.app/) -->
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <!-- <p align="right"><a href="#readme-top">back to top</a></p>
   
-  <!-- ### Built With
+  ### Built With
   
   - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB) -->
 
@@ -117,9 +117,9 @@ To get a local copy up and running follow these simple example steps. -->
    ```sh
    npm install
    ``` -->
-
+<!-- 
   <p align="right"><a href="#readme-top">back to top</a></p>
-  
+   -->
   <!-- USAGE EXAMPLES -->
   
   <!-- ## Usage  
@@ -154,7 +154,7 @@ If you have any inquiries, don't hesitate to reach out to me via socials or by s
 
 <a href="https://www.linkedin.com/in/haiderali0/">LinkedIn</a> | <a href="https://github.com/Haider-Ali-GitHub">GitHub</a>
 
-Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio)
+<!-- Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio) -->
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
