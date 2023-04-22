@@ -13,7 +13,7 @@
 
   <br />
   <div align="center">
-    <a href="https://github.com/mdyeates/my-portfolio">
+    <a href="https://github.com/Haider-Ali-GitHub">
       <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
@@ -21,18 +21,18 @@
     <br/>
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
-      Built by: Michael Yeates
+      <!-- Built by: Haider Ali  -->
       <br/>
       <br/>
-      <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/Haider-Ali-GitHub"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
+      <a href="https://devhaiderali.netlify.app/">View Live Website</a>
       ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
+      <!-- <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
       ·
       <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a>
-    </p>
+    </p> -->
   </div>
   
   <!-- TABLE OF CONTENTS -->
@@ -72,19 +72,19 @@ This portfolio application was built using React and is designed to showcase my 
   
   ### Photos
   
-  [![My React Portfolio Screen Shot][product-screenshot]](https://michaelyeates.co.uk)
+  [![My React Portfolio Screen Shot][product-screenshot]](https://devhaiderali.netlify.app/)
 
-[![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
+[![My React Portfolio Screen Shot][product-screenshot2]](https://devhaiderali.netlify.app/)
 
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelyeates.co.uk)
+[![My React Portfolio Screen Shot][product-screenshot3]](https://devhaiderali.netlify.app/)
 
-[![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
+<!-- [![My React Portfolio Screen Shot][product-screenshot4]](https://devhaiderali.netlify.app/) -->
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
-  ### Built With
+  <!-- ### Built With
   
-  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB) -->
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -96,46 +96,46 @@ This portfolio application was built using React and is designed to showcase my 
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+<!-- ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. -->
 
-### Prerequisites
+<!-- ### Prerequisites
 
 - npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
-### Installation
+<!-- ### Installation -->
 
-1. Clone the repo
+<!-- 1. Clone the repo
    ```sh
    git clone https://github.com/mdyeates/my-portfolio.git
    ```
 2. Install NPM packages
    ```sh
    npm install
-   ```
+   ``` -->
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
   <!-- USAGE EXAMPLES -->
   
-  ## Usage  
+  <!-- ## Usage  
   ### Mobile Responsive
   
   - As demonstrated in the photos below, this application is designed to be responsive and adjust seamlessly to fit various screen sizes
   
-    [![Responsiveness Screenshot][responsive-screenshot]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot]](https://devhaiderali.netlify.app/)
     
-    [![Responsiveness Screenshot][responsive-screenshot2]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot2]](https://devhaiderali.netlify.app/)
 
-    [![Responsiveness Screenshot][responsive-screenshot3]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot3]](https://devhaiderali.netlify.app/)
 
-    [![Responsiveness Screenshot][responsive-screenshot4]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot4]](https://devhaiderali.netlify.app/)
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">back to top</a></p> -->
 
   <!-- LICENSE -->
 
@@ -150,9 +150,9 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:haider.ali07304@gmail.com">haider.ali07304@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/mdyeates/">LinkedIn</a> | <a href="https://github.com/mdyeates/">GitHub</a>
+<a href="https://www.linkedin.com/in/haiderali0/">LinkedIn</a> | <a href="https://github.com/Haider-Ali-GitHub">GitHub</a>
 
 Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio)
 
