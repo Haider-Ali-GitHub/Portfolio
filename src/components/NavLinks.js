@@ -24,6 +24,9 @@ const NavLinks = () => {
         <NavLink to="/" onClick={() => setIsMenuOpen(false)}>
           Home
         </NavLink>
+        <NavLink to="/portfolio" onClick={() => setIsMenuOpen(false)}> {/* Add this line */}
+                    Portfolio
+        </NavLink>
         <NavLink to="/about" onClick={() => setIsMenuOpen(false)}>
           About
         </NavLink>
