@@ -1,21 +1,11 @@
 [
   {
-    "title": "Bite Buddy",
-    "image": "./projectImages/BiteBuddy.png",
-    "description": "I was responsible for the routing functionality of Bike Buddy, an application that helps parents and guardians keep their children safe while cycling. Utilises the Leaflet.js library and TomTom Routing/Reverse Geolocation API's to create an interactive and visually appealing map that allows a user to plot a route, taking into account various factors such as traffic levels, bicycle lanes, and elevation.",
-    "technologies": "JavaScript | HTML | Java",
-    "github": "https://github.com/mdyeates/bike-buddy",
-    "deployed": "https://norrinradd8.github.io/bike_buddy/",
-    "bgcolor": "#f37737",
-    "id": "1"
-  },
-  {
     "title": "Photos",
     "image": "./projectImages/Photos.png",
-    "technologies": "Java",
+    "technologies": "Java | FXML",
     "description": " In the 'Photos' project, I developed a Java FX and FXML-based photo management application. My work included implementing photo tagging, search functionality, and managing stock and user photos. I also created login and admin systems for user account management and designed a robust backend using Java's Serializable interface for efficient data handling. My focus was on ensuring scalability and a seamless user experience.",
-    "github": "https://github.com/mdyeates/weather-app",
-    "deployed": "https://mdyeates.github.io/weather-app/",
+    "BitBucket": "https://bitbucket.org/ha484/photos-32/src/master/",
+    "deployed": "https://drive.google.com/file/d/1ws4ITeYbPCO7e8oI4_3Yn9j9hH9RcEAR/view?usp=sharing",
     "bgcolor": "#29cbe0",
     "id": "2"
   },
@@ -24,41 +14,30 @@
     "image": "./projectImages/chess.png",
     "technologies": "Java",
     "description": "In the chess game project, I focused on implementing the move validation system using Java. My role involved ensuring that each chess piece moved according to the rules, integrating complex functionalities like castling and pawn promotion. I also contributed to the user interface, making it intuitive for player interactions. My work was crucial in creating a robust and enjoyable chess-playing experience.",
-    "github": "https://github.com/mdyeates/team-dashboard",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "github": "https://github.com/Haider-Ali-GitHub/SOFTWARE-METHODOLOGY/tree/main/ChessAssignment",
+    "deployed": "https://drive.google.com/file/d/197-O6ZJpZ8FCVRR4LW9TGD3v0IJT4Ilo/view?usp=sharing",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
-    "title": "Andriod Photos",
-    "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
-    "description": "For Andriod Photos, I was tasked with porting our JavaFX-based 'Photos' project to an Android app, using Android Studio and Java. This project was focused on implementing core functionalities like album management, photo display, and tagging, specifically for the Android platform. Key features included creating, deleting, and renaming photo albums, adding and removing photos, and implementing a search function for photos based on tags. The app was optimized for the Nexus 4 device emulator, adhering to Android API 34 specifications. My role was critical in adapting the JavaFX project to the Android environment, ensuring a smooth user experience and seamless functionality on Android devices.",
-    "github": "https://github.com/mdyeates/coding-quiz",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "title": "Android Photos",
+    "image": "./projectImages/AndroidPhotos.png",
+    "technologies": "Java | Android Studio | XML",
+    "description": "For Android Photos, I was tasked with porting our JavaFX-based 'Photos' project to an Android app, using Android Studio and Java. This project was focused on implementing core functionalities like album management, photo display, and tagging, specifically for the Android platform. Key features included creating, deleting, and renaming photo albums, adding and removing photos, and implementing a search function for photos based on tags. The app was optimized for the Nexus 4 device emulator, adhering to Android API 34 specifications. My role was critical in adapting the JavaFX project to the Android environment, ensuring a smooth user experience and seamless functionality on Android devices.",
+    "BitBucket": "https://bitbucket.org/ha484/androidapp32/src/main/",
+    "deployed": "https://drive.google.com/file/d/1qvRlroXL0tq5fNdytph81qjfKIhK-ia_/view?usp=sharing",
     "bgcolor": "#f85781",
     "id": "4"
   },
 
   {
-    "title": "P1",
-    "image": "./projectImages/P1.png",
-    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
-    "technologies": "React | Framer | CSS | Bootstrap | Node",
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
+    "title": "Conway's Game of Life",
+    "image": "./projectImages/GameOfLife.png",
+    "description": "For the Game of Life project, my responsibility was to develop and optimize Conway's classic cellular automaton in Java, focusing on creating an interactive and user-friendly interface. This involved implementing the fundamental rules of the game, such as cell survival, reproduction, and death based on neighboring cells. Key functionalities included the ability to start, pause, and reset the simulation, dynamically adjust the grid size, and manually alter the state of individual cells to create various patterns. The project emphasized efficient algorithm implementation to handle large grid sizes and high-generation simulations smoothly. My role was pivotal in ensuring the game adhered to the original rules set by John Conway while offering a modern, interactive user experience in Java",
+    "technologies": "Java",
+    "github": "https://github.com/Haider-Ali-GitHub/CS112-Data-Structures/tree/master/GameOfLife",
+    "deployed": "https://drive.google.com/file/d/1RS-GxnvuoWkl2buquxgnmLNWMdeHkQt1/view?usp=sharing",
     "bgcolor": "#ffcc33",
     "id": "1"
-  },
-
-  {
-    "title": "Planner",
-    "image": "./projectImages/planner.png",
-    "technologies": "JS | Bootstrap | Moment",
-    "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
-    "github": "https://github.com/mdyeates/daily-planner",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
-    "bgcolor": "#3e67ff",
-    "id": "6"
   }
 ]

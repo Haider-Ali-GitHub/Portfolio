@@ -8,7 +8,7 @@ const NavLinks = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const openResume = () => {
-    window.open("https://drive.google.com/file/d/1Zhuq8AewhfTScIpz48VDIJXAswkRM7tR/view?usp=sharing", "_blank");
+    window.open("https://docs.google.com/document/d/1zLadphQpvK-Q_1wzNPPQgTAHUBfZVPcE/edit?usp=sharing&ouid=103705909067343203121&rtpof=true&sd=true", "_blank");
   }
 
   return (
