@@ -94,58 +94,6 @@ This portfolio application was built using React and is designed to showcase my 
   
   <p align="right"><a href="#readme-top">back to top</a></p>
 
-<!-- GETTING STARTED -->
-
-<!-- ## Getting Started
-
-To get a local copy up and running follow these simple example steps. -->
-
-<!-- ### Prerequisites
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ``` -->
-
-<!-- ### Installation -->
-
-<!-- 1. Clone the repo
-   ```sh
-   git clone https://github.com/mdyeates/my-portfolio.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ``` -->
-<!-- 
-  <p align="right"><a href="#readme-top">back to top</a></p>
-   -->
-  <!-- USAGE EXAMPLES -->
-  
-  <!-- ## Usage  
-  ### Mobile Responsive
-  
-  - As demonstrated in the photos below, this application is designed to be responsive and adjust seamlessly to fit various screen sizes
-  
-    [![Responsiveness Screenshot][responsive-screenshot]](https://devhaiderali.netlify.app/)
-    
-    [![Responsiveness Screenshot][responsive-screenshot2]](https://devhaiderali.netlify.app/)
-
-    [![Responsiveness Screenshot][responsive-screenshot3]](https://devhaiderali.netlify.app/)
-
-    [![Responsiveness Screenshot][responsive-screenshot4]](https://devhaiderali.netlify.app/)
-
-  <p align="right"><a href="#readme-top">back to top</a></p> -->
-
-  <!-- LICENSE -->
-
-<!-- ## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-  <p align="right"><a href="#readme-top">back to top</a></p>
-  
-   -->
 <!-- QUESTIONS -->
   
 ## Questions
