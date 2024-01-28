@@ -1,4 +1,15 @@
 [
+  
+  {
+    "title": "Credit Card Fraud Detector",
+    "image": "./projectImages/CreditCardFraud.png",
+    "technologies": "Python | Scikit-Learn | XGBoost",
+    "description": "In the 'Credit Card Fraud Detector' project, I harnessed the power of Python along with Scikit-Learn and XGBoost to build a robust fraud detection system. The project involved extensive data preprocessing, feature selection, and the implementation of various machine learning models like Decision Trees, KNN, Logistic Regression, SVM, Random Forest, and XGBoost. I fine-tuned each model to maximize accuracy and F1 scores, and visualized model performance through detailed confusion matrices. The system significantly enhanced fraud detection capabilities, reducing operational risks and ensuring secure transactions.",
+    "github": "https://github.com/Haider-Ali-GitHub/CreditCardFraud.png",
+    "deployed": "https://drive.google.com/file/d/yourfileid/view?usp=sharing",
+    "bgcolor": "#4B8BBE",
+    "id": "1"
+  },   
   {
     "title": "Photos",
     "image": "./projectImages/Photos.png",
