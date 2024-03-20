@@ -6,9 +6,17 @@
     "technologies": "Python | Scikit-Learn | XGBoost",
     "description": "In the 'Credit Card Fraud Detector' project, I harnessed the power of Python along with Scikit-Learn and XGBoost to build a robust fraud detection system. The project involved extensive data preprocessing, feature selection, and the implementation of various machine learning models like Decision Trees, KNN, Logistic Regression, SVM, Random Forest, and XGBoost. I fine-tuned each model to maximize accuracy and F1 scores, and visualized model performance through detailed confusion matrices. The system significantly enhanced fraud detection capabilities, reducing operational risks and ensuring secure transactions.",
     "github": "https://github.com/Haider-Ali-GitHub/CreditCardFraud",
-    "deployed": "https://drive.google.com/file/d/yourfileid/view?usp=sharing",
     "bgcolor": "#4B8BBE",
     "id": "1"
+  },   
+  {
+    "title": "Fast Trajectory Ai Pathfinder",
+    "image": "./projectImages/AiPathfinder.png",
+    "technologies": "Python | NumPy | XGBoost",
+    "description": "In my 'Fast Trajectory Ai Pathfinder' project, I analyzed and implemented advanced pathfinding algorithms in gridworlds to navigate complex mazes. I compared A*, Repeated Forward A*, Repeated Backward A*, and Adaptive A* algorithms, emphasizing heuristic functions and tie-breaking strategies. Using Python, NumPy, and Matplotlib, I developed these algorithms, created mazes with depth-first search, and evaluated performance by path length, runtime, and cells expanded. Statistical tests assessed differences, revealing Adaptive A* as the most runtime-efficient, underscoring the value of dynamic heuristics in complex navigation.",
+    "github": "https://github.com/Haider-Ali-GitHub/AiProjects/tree/main/1-FastTrajectoryReplanning",
+    "bgcolor": "#4B8BBE",
+    "id": "2"
   },   
   {
     "title": "Photos",
@@ -18,17 +26,17 @@
     "github": "https://bitbucket.org/ha484/photos-32/src/master/",
     "deployed": "https://drive.google.com/file/d/1ws4ITeYbPCO7e8oI4_3Yn9j9hH9RcEAR/view?usp=sharing",
     "bgcolor": "#29cbe0",
-    "id": "2"
+    "id": "3"
   },
   {
     "title": "Chess",
     "image": "./projectImages/chess.png",
-    "technologies": "Java",
+    "technologies": "Java | JRE | 2D Arrays ",
     "description": "In the chess game project, I focused on implementing the move validation system using Java. My role involved ensuring that each chess piece moved according to the rules, integrating complex functionalities like castling and pawn promotion. I also contributed to the user interface, making it intuitive for player interactions. My work was crucial in creating a robust and enjoyable chess-playing experience.",
     "github": "https://github.com/Haider-Ali-GitHub/SOFTWARE-METHODOLOGY/tree/main/ChessAssignment",
     "deployed": "https://drive.google.com/file/d/197-O6ZJpZ8FCVRR4LW9TGD3v0IJT4Ilo/view?usp=sharing",
     "bgcolor": "#6c4bf4",
-    "id": "3"
+    "id": "4"
   },
   {
     "title": "Android Photos",
@@ -38,17 +46,57 @@
     "github": "https://bitbucket.org/ha484/androidapp32/src/main/",
     "deployed": "https://drive.google.com/file/d/1qvRlroXL0tq5fNdytph81qjfKIhK-ia_/view?usp=sharing",
     "bgcolor": "#f85781",
-    "id": "4"
+    "id": "5"
   },
+
+  {
+    "title": "Avengers: Infinity War Utilities ",
+    "image": "./projectImages/Avengers.png",
+    "technologies": "Java | Arrays | Graphs | Trees | Priority Queue ",
+    "description": " In my 'Avengers: Infinity War Utilities' project, I created a Java-based suite of tools designed to simulate various aspects of the Avengers: Infinity War storyline. This collection includes utilities for simulating the forging of Stormbreaker, locating the planet Titan, predicting the outcome of Thanos' snap, analyzing potential timelines with the Time Stone, and studying the neural network connected to the Mind Stone. Each utility, such as calculating Thor's endurance to forge Stormbreaker or using Dijkstra’s Algorithm to find the shortest path to Titan, is crafted to bring aspects of the movie into a computational context. This project not only serves as a fun exploration of the movie's scenarios but also as a practical application of algorithms and data structures in solving complex problems.",
+    "github": "https://github.com/Haider-Ali-GitHub/JavaProjects/tree/main/Huffman",
+    "bgcolor": "#29cbe0",
+    "id": "6"
+  },
+  
+  {
+    "title": "Huffman Coding ",
+    "image": "./projectImages/HuffmanCoding.png",
+    "technologies": "Java | Binary Heap | Priority Queue ",
+    "description": " In my 'Huffman Coding' project, I developed a Java-based tool for text compression and decompression using Huffman Coding, leveraging binary heaps, priority queues, and binary search trees for efficient encoding based on character frequency. This interactive project simplifies file encoding/decoding through a command-line interface and includes Huffman tree visualization for educational purposes. Easy to install and requiring only the Java Development Kit (JDK), it serves as a practical tool for applying Huffman Coding in real-world scenarios.",
+    "github": "https://github.com/Haider-Ali-GitHub/JavaProjects/tree/main/Huffman",
+    "bgcolor": "#29cbe0",
+    "id": "7"
+  },
+  {
+    "title": "Kindergarten Classroom Management ",
+    "image": "./projectImages/KindergartenClassroomManagement.png",
+    "technologies": "Java | Singly Linked Lists | Circularly Linked Lists",
+    "description": "In my 'Kindergarten Classroom Management' project, I simulated managing a kindergarten classroom, including activities like student lineup, seating, and musical chairs, using singly and circularly linked lists. Developed in Java, this project simplifies classroom dynamics, featuring orderly classroom setup, seat assignments, and game simulations. It offers an efficient, command-line-based insight into classroom management without needing extra configuration, powered by the Java Development Kit (JDK).",
+    "github": "https://github.com/Haider-Ali-GitHub/JavaProjects/tree/main/RUKindergarten",
+    "bgcolor": "#29cbe0",
+    "id": "8"
+  },
+
+  {
+    "title": "Warehouse Management System ",
+    "image": "./projectImages/WarehouseManagementSystem.png",
+    "technologies": "Java | Hash Table | Priority Queue",
+    "description": " In the 'Warehouse Management System' project, I designed a Java-based system to streamline inventory management in a warehouse. Utilizing a hash table-like structure with priority queues for each entry, it efficiently manages product additions, deletions, and restocking, prioritizing space by removing less popular items. This system simplifies handling diverse warehouse operations, ensuring space efficiency and product popularity management through a sector-based approach.",
+    "github": "https://github.com/Haider-Ali-GitHub/JavaProjects/tree/main/RUWarehouse",
+    "bgcolor": "#29cbe0",
+    "id": "9"
+  },
+
 
   {
     "title": "Conway's Game of Life",
     "image": "./projectImages/GameOfLife.png",
     "description": "For the Game of Life project, my responsibility was to develop and optimize Conway's classic cellular automaton in Java, focusing on creating an interactive and user-friendly interface. This involved implementing the fundamental rules of the game, such as cell survival, reproduction, and death based on neighboring cells. Key functionalities included the ability to start, pause, and reset the simulation, dynamically adjust the grid size, and manually alter the state of individual cells to create various patterns. The project emphasized efficient algorithm implementation to handle large grid sizes and high-generation simulations smoothly. My role was pivotal in ensuring the game adhered to the original rules set by John Conway while offering a modern, interactive user experience in Java",
-    "technologies": "Java",
+    "technologies": "Java | JDK | Arrays | StdDraw",
     "github": "https://github.com/Haider-Ali-GitHub/CS112-Data-Structures/tree/master/GameOfLife",
     "deployed": "https://drive.google.com/file/d/1RS-GxnvuoWkl2buquxgnmLNWMdeHkQt1/view?usp=sharing",
     "bgcolor": "#ffcc33",
-    "id": "1"
+    "id": "10"
   }
 ]

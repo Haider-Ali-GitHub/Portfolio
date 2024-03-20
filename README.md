@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-  <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
   <!-- PROJECT LOGO -->
 
   <br />
@@ -102,26 +93,6 @@ If you have any inquiries, don't hesitate to reach out to me via socials or by s
 
 <a href="https://www.linkedin.com/in/haiderali0/">LinkedIn</a> | <a href="https://github.com/Haider-Ali-GitHub">GitHub</a>
 
-<!-- Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio) -->
-
-  <p align="right"><a href="#readme-top">back to top</a></p>
-  
-  <!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/mdyeates/my-portfolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/mdyeates/my-portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mdyeates/my-portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/mdyeates/my-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/mdyeates/my-portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/mdyeates/my-portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mdyeates/my-portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/mdyeates/my-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/mdyeates/my-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/mdyeates/my-portfolio/blob/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mdyeates
-
-  <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 
 [product-screenshot]: src/images/screenshot.png
 [product-screenshot2]: src/images/screenshot2.png
@@ -130,4 +101,3 @@ If you have any inquiries, don't hesitate to reach out to me via socials or by s
 [responsive-screenshot]: src/images/mobile-screenshot.png
 [responsive-screenshot2]: src/images/mobile-screenshot2.png
 [responsive-screenshot3]: src/images/mobile-screenshot3.png
-[responsive-screenshot4]: src/images/mobile-screenshot4.png
