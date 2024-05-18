@@ -4,7 +4,7 @@
     "image": "./projectImages/FaceDigitRecognition.png",
     "technologies": " Neural Networks | Perceptron | Naive Bayes",
     "description": "In the 'Digit and Face Recognition' project, we used Python to develop three machine learning classifiers: a two-layer Neural Network, a Perceptron, and Naive Bayes. This project aimed to recognize handwritten digits and detect faces using binary-transformed image data for efficiency. We built each classifier from scratch, improving accuracy and speed by adjusting the training data from 10% to 100%. Through rigorous testing and validation, we achieved notable accuracy improvements, highlighting the value of adaptive learning rates and robust training for high performance in real scenarios.",
-    "github": "https://github.com/YourUsername/HandwrittenDigitFaceRecognition",
+    "github": "https://github.com/Haider-Ali-GitHub/Face-and-Digit-Classification",
     "bgcolor": "#6c4bf4",
     "id": "1"
   },  
@@ -13,7 +13,7 @@
     "image": "./projectImages/CreditCardFraud.png",
     "technologies": "Python | Scikit-Learn | XGBoost",
     "description": "In the 'Credit Card Fraud Detector' project, I harnessed the power of Python along with Scikit-Learn and XGBoost to build a robust fraud detection system. The project involved extensive data preprocessing, feature selection, and the implementation of various machine learning models like Decision Trees, KNN, Logistic Regression, SVM, Random Forest, and XGBoost. I fine-tuned each model to maximize accuracy and F1 scores, and visualized model performance through detailed confusion matrices. The system significantly enhanced fraud detection capabilities, reducing operational risks and ensuring secure transactions.",
-    "github": "https://github.com/Haider-Ali-GitHub/Face-and-Digit-Classification",
+    "github": "https://github.com/Haider-Ali-GitHub/CreditCardFraud",
     "bgcolor": "#4B8BBE",
     "id": "2"
   },   
