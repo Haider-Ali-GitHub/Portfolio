@@ -8,7 +8,7 @@ function App() {
     email: "haider.ali07304@gmail.com",
     availability: "Open for work",
     brand:
-      "I am a senior at Rutgers University with a passion for programming and building relationships. My expertise spans Java, C, Python, and OCaml, honed through various projects and internships, equipping me with skills in both front-end and back-end development. As a licensed real estate agent and ITS consultant, I bring a unique perspective, adept at navigating complex systems and communicating effectively with diverse stakeholders. My ability to collaborate across disciplines, coupled with a strong technical foundation and exceptional communication skills, positions me perfectly for a software engineering role where I can create amazing digital experiences. Let's connect and make great things happen!",
+      "I am a recent computer science graduate from Rutgers University, where I dedicated myself to mastering the design and deployment of innovative AI solutions. Currently, I lead a team at Headstarter AI, developing high-accuracy AI applications using cutting-edge technologies like NextJS and OpenAI. My professional journey includes impactful internships at L3Harris Technologies and Instruments 49, where I significantly enhanced algorithm efficiency and system performance. Beyond the tech world, I am an avid coffee enthusiast and hiking aficionado, which keep me inspired and energized. My passion for AI is matched by my love for exploring nature and the endless quest for the perfect cup of coffee. My portfolio showcases projects in advanced facial and digit recognition and fraud detection, reflecting my deep commitment to impactful and efficient AI applications. Let's connect and make great things happen!",
   };
 
   return (
